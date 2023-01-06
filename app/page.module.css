@@ -269,3 +269,7 @@
     transform: rotate(0deg);
   }
 }
+
+.greeting_text_container {
+  margin: 0 auto;
+}
