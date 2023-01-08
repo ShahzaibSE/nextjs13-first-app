@@ -12,6 +12,7 @@ export default function Home() {
         <div>
           <Link href="/home">Home</Link>
           <Link href="/gallery">Gallery</Link>
+          <Link href="/about">About</Link>
         </div>
         <br/>
         <div className={styles.greeting_text_container}>
