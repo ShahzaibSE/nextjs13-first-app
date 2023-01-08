@@ -10,9 +10,9 @@ export default function Home() {
     <main className={styles.main}>
       <div>
         <div>
-          <Link href="/home">Home</Link>
-          <Link href="/gallery">Gallery</Link>
-          <Link href="/about">About</Link>
+          <Link href="/home">Home&nbsp</Link>
+          <Link href="/gallery">Gallery&nbsp</Link>
+          <Link href="/about">About&nbsp</Link>
         </div>
         <br/>
         <div className={styles.greeting_text_container}>
